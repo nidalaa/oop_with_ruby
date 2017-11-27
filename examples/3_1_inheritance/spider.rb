@@ -1,0 +1,2 @@
+class Spider < Animal
+end
