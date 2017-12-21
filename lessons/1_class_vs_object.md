@@ -1,7 +1,7 @@
 # Theory
 
 
-1. "Diffrence between class and object" http://www.differencebetween.info/difference-between-object-and-class
+1. "Difference between class and object" http://www.differencebetween.info/difference-between-object-and-class
 2. "Constructor in Ruby" http://ruby-for-beginners.rubymonstas.org/writing_classes/initializers.html
 3. "Methods in Ruby" https://www.tutorialspoint.com/ruby/ruby_methods.htm
 
